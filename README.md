@@ -49,6 +49,14 @@ Me chamo Leandro Junkes, tenho 19 anos e sou natural de Joinville, Santa Catarin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icons8.com.br/icon/40670/programa%C3%A7%C3%A3o-c" 
+/>
 
 <br/>
 <br/>
